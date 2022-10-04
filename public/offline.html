@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="./logo192.PNG" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <link rel="apple-touch-icon" href="./logo192.png" />
-    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,17 +20,6 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-
-    <script>
-      if ('serviceWorker' in navigator) {                               //o service worker começa aqui. Primeiro verificamos se o browser tem suporte, e caso sim entramos no if 
-        window.addEventListener('load', () => {                         //assim habilitamos a inserção do nosso próprio service worker
-          navigator.serviceWorker.register('./service-worker.js')       //e assim o inserimos, propriamente dito
-            .then((reg) => console.log('Sucesso: ', reg.scope))
-            .catch((err) => console.log('Falha: ', err))
-        })
-      }
-    </script>
-
     <div id="root"></div>
   </body>
 </html>
