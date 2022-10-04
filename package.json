@@ -1,7 +1,7 @@
 {
   "name": "resumeapp",
   "version": "0.1.0",
-  "homepage": "https://amigodocarlos.github.io/",
+  "homepage": "https://amigodocarlos.github.io/alexresume",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
