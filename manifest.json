@@ -1,0 +1,16 @@
+{
+  "short_name": "Alex in a page",
+  "name": "Alexander's Resume",
+  "icons": [
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#051933",
+  "background_color": "#212121"
+}

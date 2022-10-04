@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac64dd9f.css",
+    "main.js": "/static/js/main.79b994fd.js",
+    "static/media/aston.jpg": "/static/media/aston.5047c0d90266553d6b95.jpg",
+    "static/media/gokart.jpg": "/static/media/gokart.058df02b410c18d6b875.jpg",
+    "static/media/space.jpg": "/static/media/space.13963cfb0273bc9c7f0b.jpg",
+    "static/media/pegaso.jpg": "/static/media/pegaso.c7af97e862387be427f1.jpg",
+    "static/media/games.jpg": "/static/media/games.f48d2e1cf4509587527d.jpg",
+    "static/media/foreign.jpg": "/static/media/foreign.a5c1e078be535ba023f0.jpg",
+    "static/media/bike.jpg": "/static/media/bike.b9b81d5c2e56b40ba5ec.jpg",
+    "static/media/prototyping.jpg": "/static/media/prototyping.fc1dad75d8c9b0b36126.jpg",
+    "static/media/chap0lin.jpg": "/static/media/chap0lin.94534e12caf9cd22da4a.jpg",
+    "static/media/learning.jpg": "/static/media/learning.9b75a3cf9bfd33c8f9b3.jpg",
+    "static/media/rayban.jpg": "/static/media/rayban.2545b17bcc15cfa7e0ae.jpg",
+    "static/media/cosplay.jpg": "/static/media/cosplay.fa31c83536d6708c4b63.jpg",
+    "static/media/premiere-pro.jpg": "/static/media/premiere-pro.142da439afc5189f4107.jpg",
+    "static/media/3dprinting.jpg": "/static/media/3dprinting.d1b62f273d2d843d3685.jpg",
+    "static/media/robot.jpg": "/static/media/robot.ca6e4052deda8aafde2e.jpg",
+    "static/media/robotics-for-kids.jpg": "/static/media/robotics-for-kids.07e5fb6e27570779b5fb.jpg",
+    "static/media/writer.jpg": "/static/media/writer.0677569f3a6c0cd773c3.jpg",
+    "static/media/porsche.jpg": "/static/media/porsche.06ff8f616868e9e691bc.jpg",
+    "static/media/travel.jpg": "/static/media/travel.91c6fe35879a28a9268c.jpg",
+    "static/media/mecajun.jpg": "/static/media/mecajun.e77d1259dabbf918b1d2.jpg",
+    "static/media/profile2.jpg": "/static/media/profile2.281ffd489c6d3e1aaf9a.jpg",
+    "static/media/presenter.jpg": "/static/media/presenter.140825b930acbb60aa3e.jpg",
+    "static/media/photography.jpg": "/static/media/photography.a50f228fb3d07cd7d839.jpg",
+    "static/media/fusion-360.jpg": "/static/media/fusion-360.d4e9a96f28d63afdce89.jpg",
+    "static/media/profile.jpg": "/static/media/profile.17ae4863bcd30f9f9a99.jpg",
+    "index.html": "/index.html",
+    "main.ac64dd9f.css.map": "/static/css/main.ac64dd9f.css.map",
+    "main.79b994fd.js.map": "/static/js/main.79b994fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac64dd9f.css",
+    "static/js/main.79b994fd.js"
+  ]
+}
